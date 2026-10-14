@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "download_url": "https://bedrock-bot-ota.proeasonzc.workers.dev/Bedrock-bot.exe",
-  "sha256": "0E81C668516A781E587D2BEBC5E21745AB6173D26D6F69F597BEBB23C062174A",
-  "changelog": "新增省電模式"
+  "sha256": "4DFE829A5D497A4A56619C17ECB9978434526866E5EC9F307691BF07D0369083",
+  "changelog": "更新後執行檔名稱統一為 bedrock-bot.exe"
 }
